@@ -1,7 +1,7 @@
 <?php
 /**
  * @version		$Id: controller.php 20553 2011-02-06 06:32:09Z infograf768 $
- * @package		Joomla.Site
+ * @package		Oru
  * @subpackage	com_ztelecliente
  * @copyright	Copyright (C) 2005 - 2011 Open Source Matters, Inc. All rights reserved.
  * @license		GNU General Public License version 2 or later; see LICENSE.txt
